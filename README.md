@@ -1,4 +1,4 @@
-# Installation
+## Installation
 ```bash
 npm install
 # or
@@ -11,11 +11,11 @@ npm run dev
 # or
 yarn dev
 ```
-## Guess Anime Character
+# Guess Anime Character
 
 Guess Anime Character is a simple game where users has to guess the name of a anime character.
 
-# Game features
+## Game features
 - Zoomed image of a character will be display and a user have to guess the name.
 - Guessing correct name will give +2 coins.
 - Hint option is availabe to help you guess the name. However, it will cost +5 coins for each hint.
