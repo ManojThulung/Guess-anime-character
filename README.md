@@ -1,3 +1,10 @@
+Installation
+```bash
+npm install
+# or
+yarn install
+
+```
 First, run the development server:
 ```bash
 npm run dev
